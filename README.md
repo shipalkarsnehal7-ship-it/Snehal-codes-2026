@@ -1,18 +1,28 @@
-# Snehal's Mission Google 2026 🚀
+<div align="center">
 
-Hi, I'm Snehal Khashaba Shipalkar 👋 
-Computer Engineering Student
+# Snehal Shipalkar
+### Software Engineering Undergraduate
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎯 Goal: Crack Google 2026
-
-### 📅 Day 1: 13 June 2026
-- ✅ Created GitHub account
-- ✅ Made my first repository 
-- ✅ Started my coding journey
-
-### 📚 Currently Learning:
-- Python Basics
-- Git & GitHub
+</div>
 
 ---
-⭐ Star this repo to follow my journey!
+
+### 👨‍💻 About Me
+Building strong foundations in computer science and software development. This repository documents my projects and technical growth.
+
+### 🛠️ Tech Stack
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python |
+| **Core CS** | Data Structures & Algorithms |
+| **Tools** | Git, GitHub, VS Code |
+
+### 📝 Dev Log
+**13 June 2026** - Repository initialized. Commenced study of programming fundamentals.
+
+---
+<div align="center
